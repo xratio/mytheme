@@ -10,3 +10,4 @@ regions:
     page_bottom: 'Page bottom'
     breadcrumb: Breadcrumb
     content: Content
+libraries:   - mytheme/global-styling
